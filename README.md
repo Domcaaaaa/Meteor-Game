@@ -8,8 +8,6 @@ A simple Python game where you control a spaceship and dodge falling meteors. Th
 - [Setup](#setup)
 - [How to Play](#how-to-play)
 - [Notes](#notes)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 In this game, the player maneuvers a spaceship to avoid meteors falling from the sky. The game keeps track of the player's score, which increases each time a meteor passes without colliding with the spaceship. When a collision occurs, the game displays a "Game Over" message, and the player has the option to restart.
